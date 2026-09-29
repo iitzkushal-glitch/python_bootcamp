@@ -12,8 +12,10 @@ my_integer_var = 10
 print('Integer:', my_integer_var) # Integer: 10
 
 my_float_var = 2.50
-print('Float:', my_float_var) # float: 4.5
+print('Float:', my_float_var) # Float: 2.5
 
 my_string_var = 'hello'
+print('String:', my_string_var) # String: hello
+
 my_boolean_var = True 
-print('Bollen:' my_boolean_var)# boolen: true
+print('Boolean:', my_boolean_var) # Boolean: True
